@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently researching on Machine Learning.<br>🎓 I'm currently pursuing Bachelor's of Engineering in CSE<br>🫂 I'm ready to collaborate on new projects.<br>📦 Blockchain is also fascinating to me.<br>🌐 More of me: https://ishavverma.me/
+🔭 I'm currently researching on Machine Learning.<br>🎓 I'm currently pursuing Bachelor's of Engineering in CSE<br>🫂 I'm ready to collaborate on new projects.<br>📦 Blockchain is also fascinating to me.<br>🌐 More of me: https://ishavverma.github.io/
 
 
 ## 🌐 Socials:
