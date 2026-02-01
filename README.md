@@ -1,11 +1,11 @@
 # 💫 About Me:
 <br>🔭 I'm currently researching & developing on Generative AI.
 <br>🎓 Graduate - Computer Science and Engineering Specialization in AI.
-<br>🏢 Systems Engineers @ TCS, taking proactive initiatives in AI and ML projects to drive innovation and enhance system efficiencies.
+<br>🏢 Product Engineer - GenAI @ TCS, taking proactive initiatives in AI and ML projects to drive innovation and enhance system efficiencies.
 <br>✅️IBM Certified AI ML Specialist, AWS Certified Cloud Practitioner, Google Cloud Certified Data Analyst, Zyxel Certified Network Associate.
 <br>🫂 I'm ready to collaborate on new projects.
 <br>📦Blockchain is also fascinating to me.
-<br>🌐 More of me: https://ishavverma.github.io/ (Not updated been so long🫣)
+<br>🌐 More of me: https://ishavverma.github.io/
 
 
 ## 🌐 Socials:
