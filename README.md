@@ -1,4 +1,4 @@
-# Ishav Verma 🦦
+# Ishav Verma | Applied AI Engineer 🦦
 🔭 Researching & building Generative AI systems  
 🏢 Product Engineer — Generative AI @ TCS  
 🎓 B.E. Computer Science & Engineering (AI Specialization)  
