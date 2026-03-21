@@ -4,7 +4,6 @@
 🎓 B.E. Computer Science & Engineering (AI Specialization)  
 📊 3+ Years Experience in Machine Learning · 20+ AI/ML Projects with End-to-End Product Ownership  
 🌐 Portfolio: https://ishavverma.github.io/  
-💻 GitHub: https://github.com/ishavverma  
 
 ---
 
